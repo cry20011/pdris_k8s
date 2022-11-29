@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: back-pod
+  labels:
+    app: back-app
+spec:
+  containers:
+  - image: cry20011/pdris-back
+    name: backend
+    ports:
+    - containerPort: 5000
