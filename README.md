@@ -1,10 +1,8 @@
 # pdris_k8s
 
-Использовал приложение из первой лабы.
+Установил minikube и использовал приложение из первой лабы.
 
 Создал сервис back'a, и получил url:
-
-
 
 ![](https://github.com/cry20011/pdris_k8s/blob/main/images/back_service.png)
 
