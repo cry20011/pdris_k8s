@@ -14,6 +14,6 @@
 
 ![](https://github.com/cry20011/pdris_k8s/blob/main/images/front_service.png)
 
-Front подтянул Васю и Виталика:
+И front умеет получать Васю и Виталика:
 
 ![](https://github.com/cry20011/pdris_k8s/blob/main/images/front_app.png)
